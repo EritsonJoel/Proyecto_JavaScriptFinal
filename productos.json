@@ -1,0 +1,43 @@
+[
+
+   {
+       "id": 1,
+      "Nombre": "Vans Era",
+       "precio":  100,
+       "img": "././img/imagen7.jpg"
+   },
+   {
+    "id": 2,
+    "Nombre": "Vans Authentic",
+     "precio": 200,
+     "img": "././img/imagen2.jpeg"
+     
+ },
+ {
+    "id": 3,
+    "Nombre": "Vans Slip  On",
+     "precio": 250,
+     "img": "././img/imagen5.jpeg"
+ },
+ {
+    "id": 4,
+    "Nombre": "Vans Sk8  High",
+     "precio": 150,
+     "img": "././img/imagen3.jpg"
+ },
+ {
+    "id": 5,
+    "Nombre": "Vans old Skool",
+     "precio": 300,
+     "img": "././img/imagen4.jfif"
+
+ },
+ {
+    "id": 6,
+    "Nombre": "Vans Half Cab",
+     "precio": 400,
+     "img": "././img/imagen1.jfif"
+ }
+
+]
+
